@@ -1,0 +1,10 @@
+# ModelSim / QuestaSim
+work/
+*.vstf
+*.wlf
+transcript
+vsim.wlf
+modelsim.ini
+*.mpf
+*.mti
+*.qdb
